@@ -11,8 +11,6 @@ import Drawer from '../../components/Navigation/Drawer/Drawer'
 
 
      toggleMenuHandler = () => {
-
-
          this.setState({
              menu: !this.state.menu
          })
